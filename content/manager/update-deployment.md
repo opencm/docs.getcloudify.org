@@ -272,6 +272,7 @@ node_templates:
             target: node3  # the previous relationship to node2 will be removed (unlinked), and a new relationship to node3 will be added (established)
 ```
 
+
 #### Operations:
 Operations, both node operations and relationship operations, can be added, removed or modified.
 ```yaml
