@@ -94,7 +94,7 @@ Displays a graph presenting metric data for the current deployment.
 
 You must supply the deployment's ID, either in the page context, or by specifying it in the widget configuration.
 
-The following table provides information regarding some of the other parameters that can be specified for this widget.
+The following list provides information regarding some of the other parameters that can be specified for this widget.
 
 
 * `Refresh Time Interval` - How frequently the data in the widget is refreshed (in secs).
