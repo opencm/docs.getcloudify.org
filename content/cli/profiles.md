@@ -11,8 +11,6 @@ The `cfy profiles` command is used to manage Cloudify profiles.
 
 Each profile can have its own credentials for managers and Cloudify various enviromental settings
 
-See [profiles]({{< relref "profiles/overview.md" >}}) for more information.
-
 #### Optional flags
 
 These will work on each command:
