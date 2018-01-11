@@ -264,7 +264,7 @@ Take a note of how the `KeyIndicator` component is imported into the widget. Fro
 Similarly, you can import multiple components in the same line, ie:
 `let {KeyIndicator, Checkmark} = Stage.Basic;`
 
-There is a number of components ready for use in the `Stage.Basic` library. See [Basic components reference documentation]({{< relref "manager_webui/custom-widgets-ref/index.html" >}}) for details.
+There is a number of components ready for use in the `Stage.Basic` library. See [Basic components reference documentation]({{< relref "manager_webui/custom-widgets-ref.md" >}}) for details.
 
 ##### Accessing data in render()
 There can be several independent data sources for your widget. Two most commonly used are the `configuration` and `data` objects.
